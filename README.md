@@ -38,4 +38,3 @@
 -  Deploy TaskVault on Azure (free tier)  
 -  Master reusable JWT helpers for .NET  
 -  Build clean GitHub PRs and commit history  
--  Polish UI/UX for recruiter presentation
