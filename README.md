@@ -2,7 +2,7 @@
 
 <p align="center"><strong>🚀 Passionate Full Stack Developer</strong></p>
 
-💬 Ask me about: .NET, Angular, Bootstrap, SQL Server, MySql  
+💬 Ask me about: .NET, Angular (learning), Bootstrap, SQL Server, MySql  
 🚧 Currently working on: **Education Management System** (Personal project)  
 📧 Reach me at: **ahsantahirmuhammad@gmail.com**
 
