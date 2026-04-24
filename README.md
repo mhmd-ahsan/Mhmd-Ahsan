@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan Tahir</h1>
 
 <p align="center">
-🚀 <strong>Full Stack Developer | .NET & Angular</strong>
+🚀 <strong>Aspiring Full Stack Developer | .NET & Angular</strong>
 </p>
 
 <p align="center">
