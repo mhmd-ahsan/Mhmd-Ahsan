@@ -7,11 +7,6 @@
 📧 Reach me at: **ahsantahirmuhammad@gmail.com**
 
 ---
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmd-ahsan&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-ahsan&layout=compact)
 
 ### 🔗 Connect with me
 
