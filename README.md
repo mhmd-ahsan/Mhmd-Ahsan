@@ -8,9 +8,7 @@
 💬 Ask me about .NET, SQL Server, Clean Architecture
 </p>
 
-<p align="center">
-🚧 Currently Building: <b>Smart Inventory System</b>
-</p>
+
 
 <p align="center">
 📧 ahsantahirmuhammad@gmail.com
